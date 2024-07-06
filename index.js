@@ -3,7 +3,7 @@
 require('dotenv').config()
 const { Client } = require('discord.js')
 const client = new Client({
-    intents: 'GUILDS' // just a random intent for the bot to login
+    intents: 'GUILDS' //  intent for the bot to login
 })
 
 const prompt = require('prompt-sync')()
