@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shineurysm/Slash-Command-Deleter.git"
+    "url": "git+https://github.com/Osintedx/SlashCommandRemoval.git"
   },
   "keywords": [
     "discord",
@@ -19,9 +19,9 @@
   "author": "Shineurysm",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Shineurysm/Slash-Command-Deleter/issues"
+    "url": "https://github.com/Osintedx/SlashCommandRemoval/issues"
   },
-  "homepage": "https://github.com/Shineurysm/Slash-Command-Deleter#readme",
+  "homepage": "https://github.com/Osintedx/SlashCommandRemoval.git",
   "dependencies": {
     "cli-color": "^2.0.2",
     "discord.js": "^13.8.1",
